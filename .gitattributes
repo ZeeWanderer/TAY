@@ -31,6 +31,7 @@
 *.mp3 binary
 *.ogg binary
 *.flv binary
+*.fon binary
 *.pdf binary
 *.zip binary
 
